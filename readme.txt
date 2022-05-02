@@ -1,7 +1,7 @@
 This folder/project is source code of screened poisson equation solver based on convolution pyramid
 This source code is partially referenced from Fattal's source code.
 If this code is useful for you, please cite the following literature:
-½ğ½£Çï;ÑîÎÄÎä;ËÎ³¬;Áõ´ºÏş. »ùÓÚ¾í»ı½ğ×ÖËşµÄÆÁ±Î²´ËÉ·½³Ì¿ìËÙÇó½âËã·¨. ¼ÆËã»ú¸¨ÖúÉè¼ÆÓëÍ¼ĞÎÑ§Ñ§±¨. 2020.8
+é‡‘å‰‘ç§‹;æ¨æ–‡æ­¦;å®‹è¶…;åˆ˜æ˜¥æ™“. åŸºäºå·ç§¯é‡‘å­—å¡”çš„å±è”½æ³Šæ¾æ–¹ç¨‹å¿«é€Ÿæ±‚è§£ç®—æ³•. è®¡ç®—æœºè¾…åŠ©è®¾è®¡ä¸å›¾å½¢å­¦å­¦æŠ¥. 2020.8
 
 Jin Jianqiu
-2022.5.24
+2022.5.2
